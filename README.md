@@ -20,7 +20,7 @@ This is a console-based Java application that allows administrators and students
 - View available courses
 - Register for a course using student ID
 - View student’s registered courses
-- 
+
 👤🔐 **Admin Login**
 - Username: Admin
 - Password: admin123
