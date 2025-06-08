@@ -9,3 +9,13 @@ This is a console-based Java application that allows administrators and students
 - 👀 View all course registrations
 - 🔐 Admin authentication for protected operations
 - 🗃️ Uses MySQL database with JDBC connection
+
+👤 **Admin Login**
+Username: Admin
+Password: admin123
+
+📦 **Tech Stack**
+Language: Java (JDK 8+)
+Database: MySQL
+Data Access: JDBC
+Design Pattern: DAO
